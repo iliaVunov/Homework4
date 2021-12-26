@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyTextSize">34sp</dimen>
+    <dimen name="memoryKeyLabelTextSize">28sp</dimen>
+    <dimen name="keyBaseMargin">0dp</dimen>
+    <dimen name="keyInsetLeft">4dp</dimen>
+    <dimen name="keyInsetRight">4dp</dimen>
+    <dimen name="mainDisplayTextSize">38sp</dimen>
+    <dimen name="topCalcDisplayTextSize">14sp</dimen>
+</resources>
